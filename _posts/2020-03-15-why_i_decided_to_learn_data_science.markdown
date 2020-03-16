@@ -12,4 +12,4 @@ My real experience with code came in a subsequent role, where part of my respons
 
 With the skills in data science combined with my knowledge in in the financial services industry, I am looking to improve and develop tools that would make the process of managing and using product information more efficiently. I would also like to learn how to use data science skills to make more informed investment decisions that will help select appropriate investments, while reducing risk and will maximize returns in the short and longer term.
 
-As I progress in the program, I keep wondering why I didn’t embark on this course much sooner as this is exactly what I need to transform my career. But as the Chinese proverb goes: “The best time to plant a tree was 20 years ago. The second best time is now.”
+As I make progress in the program, I keep wondering why I didn’t embark on this course much sooner as this is exactly what I need to transform my career. But as the Chinese proverb goes: “The best time to plant a tree was 20 years ago. The second best time is now.”
