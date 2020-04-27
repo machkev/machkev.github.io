@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Visualization using Seaborn"
-date:       2020-04-27 21:14:17 +0000
+date:       2020-04-27 17:14:18 -0400
 permalink:  visualization_using_seaborn
 ---
 
@@ -32,7 +32,7 @@ plt.show()
 
 Even though the chart serves its purpose, the choice of color from the Seaborn color palette was not fully applied.
 
-![Monochrome_Pop_Genre](https://github.com/machkev/images/Monochrome_Pop_Genre.png)
+![Monochrome_Pop_Genre](images/Monochrome_Pop_Genre.png)
 
 
 With a slight change in the visualization code, as displayed below...., 
@@ -54,7 +54,7 @@ plt.show()
 ...you can see how the histogram comes to life on the same presentation.
 
 
- ![Non-English_Genre](https://github.com/machkev/images/Non_English_Genre.png)
+ ![Non-English_Genre](/images/Non_English_Genre.png)
 
 
 
